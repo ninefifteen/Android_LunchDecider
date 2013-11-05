@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, UserSelection!</string>
+	<string name="app_name">lunch Decider</string>
+	<string name="type_of_food_prompt">Type of Food</string>
+	<string-array name="type_of_food">
+		<item>Any</item>
+		<item>American</item>
+		<item>Asian</item>
+		<item>Barbecue</item>
+		<item>Burgers</item>
+		<item>Chicken</item>
+		<item>Chinese</item>
+		<item>Deli</item>
+		<item>Italian</item>
+		<item>Mexican</item>
+		<item>Pizza</item>
+		<item>Seafood</item>
+		<item>Steak</item>
+	</string-array>
+	<string name="type_of_rest_prompt">Type of Restaurant</string>
+	<string-array name="type_of_rest">
+		<item>Any</item>
+		<item>Buffet</item>
+		<item>Fast food</item>
+	</string-array>
+	<string name="driving_distance_prompt">Max Driving Distance</string>
+	<string-array name="driving_distance">
+		<item>Any</item>
+		<item>Less than 2 miles</item>
+		<item>Less than 3 miles</item>
+		<item>Less than 4 miles</item>
+		<item>Less than 5 miles</item>
+	</string-array>
+<string name="game_launch_prompt">Updating location information</string>
+<string name="game_page">Game Page</string>
+<string name="help_content_title">How to use the Lunch Decider</string>
+<string name="help_content">
+1.	For selection of desired food type, tap Select to activate menu.  If no specific food\n
+	type is desired, this step may be skipped and Any will be automatically selected.\n\n
+2.	Tap radio button corresponding to the desired food type.\n\n
+3.	Repeat steps 1 and 2 for restaurant type and maximum driving distance if desired.\n\n
+4.	Tap Go, then wait for game to load.\n\n
+5.	Tap screen to play Plinko game.\n\n
+6.	After completion of Plinko game, winning restaurant information is displayed.\n\n
+7.	If driving directions are needed, tap "Driving Directions".  Or to run application again, tap Back.\n\n
+8.	If driving direction were selected, Google turn by turn directions are loaded and displayed.\n\n
+9.	To see a map of the travel route, tap the map icon in the upper left of the screen.\n\n
+If you have questions or suggestions\n\n please contact customer service\n\n
+Ravi Teja \n\n
+Email ravirockz.tejagmail.com \n\n
+Midwestern State University \n\n
+Graduate student in Computer science \n\n  
+</string>
+
+<string name="search_not_successful_prompt">Unable to complete restaurant search </string>
+<string name="jsonTest">[{&quot;0&quot;:&quot;61&quot;,&quot;id&quot;:&quot;61&quot;,&quot;1&quot;:&quot;Jack in the Box - Wichita Falls, TX&quot;,&quot;title&quot;:&quot;Jack in the Box - Wichita Falls, TX&quot;,&quot;2&quot;:&quot;3125 Lawrence Road&quot;,&quot;address1&quot;:&quot;3125 Lawrence Road&quot;,&quot;3&quot;:&quot;Wichita Falls, TX&quot;,&quot;address2&quot;:&quot;Wichita Falls, TX&quot;,&quot;4&quot;:&quot;(940) 689-9100&quot;,&quot;phone&quot;:&quot;(940) 689-9100&quot;,&quot;5&quot;:&quot;33.877476&quot;,&quot;latitude&quot;:&quot;33.877476&quot;,&quot;6&quot;:&quot;-98.539894&quot;,&quot;longitude&quot;:&quot;-98.539894&quot;},{&quot;0&quot;:&quot;60&quot;,&quot;id&quot;:&quot;60&quot;,&quot;1&quot;:&quot;Burger King&quot;,&quot;title&quot;:&quot;Burger King&quot;,&quot;2&quot;:&quot;4004 Kemp Street&quot;,&quot;address1&quot;:&quot;4004 Kemp Street&quot;,&quot;3&quot;:&quot;Wichita Falls, TX&quot;,&quot;address2&quot;:&quot;Wichita Falls, TX&quot;,&quot;4&quot;:&quot;(940) 692-6312&quot;,&quot;phone&quot;:&quot;(940) 692-6312&quot;,&quot;5&quot;:&quot;33.870289&quot;,&quot;latitude&quot;:&quot;33.870289&quot;,&quot;6&quot;:&quot;-98.535988&quot;,&quot;longitude&quot;:&quot;-98.535988&quot;},{&quot;0&quot;:&quot;9&quot;,&quot;id&quot;:&quot;9&quot;,&quot;1&quot;:&quot;Red Lobster&quot;,&quot;title&quot;:&quot;Red Lobster&quot;,&quot;2&quot;:&quot;4401 Kemp Blvd.&quot;,&quot;address1&quot;:&quot;4401 Kemp Blvd.&quot;,&quot;3&quot;:&quot;Wichita Falls, TX&quot;,&quot;address2&quot;:&quot;Wichita Falls, TX&quot;,&quot;4&quot;:&quot;(940) 691-2531&quot;,&quot;phone&quot;:&quot;(940) 691-2531&quot;,&quot;5&quot;:&quot;33.864330&quot;,&quot;latitude&quot;:&quot;33.864330&quot;,&quot;6&quot;:&quot;-98.535812&quot;,&quot;longitude&quot;:&quot;-98.535812&quot;},{&quot;0&quot;:&quot;89&quot;,&quot;id&quot;:&quot;89&quot;,&quot;1&quot;:&quot;Quiznos&quot;,&quot;title&quot;:&quot;Quiznos&quot;,&quot;2&quot;:&quot;2823 Southwest Pkwy # 100&quot;,&quot;address1&quot;:&quot;2823 Southwest Pkwy # 100&quot;,&quot;3&quot;:&quot;Wichita Falls, TX&quot;,&quot;address2&quot;:&quot;Wichita Falls, TX&quot;,&quot;4&quot;:&quot;(940) 692-0101&quot;,&quot;phone&quot;:&quot;(940) 692-0101&quot;,&quot;5&quot;:&quot;33.857658&quot;,&quot;latitude&quot;:&quot;33.857658&quot;,&quot;6&quot;:&quot;-98.538284&quot;,&quot;longitude&quot;:&quot;-98.538284&quot;}]</string>
+</resources>
